@@ -1,0 +1,32 @@
+aid: telegram-mtproto
+name: Telegram MTProto
+description: "Read and write Telegram data"
+url: https://core.telegram.org/api#getting-started
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Social"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Social
+  - Public APIs
+apis:
+  - name: Telegram MTProto
+    description: "Read and write Telegram data"
+    humanURL: https://core.telegram.org/api#getting-started
+    baseURL: https://core.telegram.org/api#getting-started
+    tags:
+      - Social
+    properties:
+      - type: Documentation
+        url: https://core.telegram.org/api#getting-started
+common:
+  - type: Website
+    url: https://core.telegram.org/api#getting-started
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
