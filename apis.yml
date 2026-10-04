@@ -39,7 +39,6 @@ apis:
   - name: Telegram MTProto
     description: "Read and write Telegram data"
     humanURL: https://core.telegram.org/api#getting-started
-    baseURL: https://core.telegram.org/api#getting-started
     tags:
       - Social
     properties:
